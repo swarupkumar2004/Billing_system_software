@@ -104,13 +104,4 @@ The Mini Mall Billing Software System is a comprehensive application designed to
 * **Multi-Language Support**: Adding support for multiple languages for wider accessibility.
 * **Discounts and Offers**: Implementing a discount system where customers can apply promotional codes.
 * **Inventory Management**: Keeping track of stock levels for each product and alerting when inventory is low.
-
-### **Contributing**
-
-Feel free to contribute by opening issues or submitting pull requests. If you encounter any bugs or have feature suggestions, don't hesitate to reach out!
-
-### **License**
-
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ---
