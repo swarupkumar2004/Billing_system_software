@@ -1,0 +1,6 @@
+python
+Tkinter
+PIL(Python Imaging Library)
+OS
+Random
+MessageBox
